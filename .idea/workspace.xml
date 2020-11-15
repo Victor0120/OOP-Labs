@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc83fe8d-c947-415b-a543-abbbeedc67c3" name="Default Changelist" comment="" />
+    <list default="true" id="dc83fe8d-c947-415b-a543-abbbeedc67c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/laborator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/E.class" beforeDir="false" afterPath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/E.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/F.class" beforeDir="false" afterPath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/F.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/G.class" beforeDir="false" afterPath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/G.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/H.class" beforeDir="false" afterPath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/H.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/I.class" beforeDir="false" afterPath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/I.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/J.class" beforeDir="false" afterPath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/J.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/laborator/out/production/laborator/com/LABS/lab5/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laborator/src/com/LABS/lab5/LetterClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/laborator/src/com/LABS/lab5/LetterClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laborator/src/com/LABS/lab5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/laborator/src/com/LABS/lab5/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="65635e95-ceb3-4c43-bb47-4dc6bd6e9163" />
   <component name="ProjectId" id="1jKEQ0zskz8jPJdBGAunZPDuOuf" />
@@ -28,16 +64,32 @@
       <option name="presentableId" value="Default" />
       <updated>1603544365169</updated>
       <workItem from="1603544366277" duration="25000" />
+      <workItem from="1605440718379" duration="63000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1603544388859">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603544388859" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605440743334">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605440743334" />
   </component>
 </project>
