@@ -4,7 +4,7 @@ import java.util.List;
 
 public class FigureController {
     void getMaxArea(List<Figure> array){
-        int max = -1;
+        double max = -1;
         int index = -1;
         for (int i = 0; i < array.size(); i++) {
             if(array.get(i).getArea() > max){
@@ -16,7 +16,7 @@ public class FigureController {
     }
 
     void getMaxPerimeter(List<Figure> array){
-        int max = -1;
+        double max = -1;
         int index = -1;
         for (int i = 0; i < array.size(); i++) {
             if(array.get(i).getPerimeter() > max){

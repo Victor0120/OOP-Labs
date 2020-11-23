@@ -4,15 +4,14 @@ import java.util.ArrayList;
 import java.util.List;
 
 class Circle extends Figure{
-    int area = 200;
-    int perimeter = 1;
+    int radius = 9;
 
-    int getArea(){
-        return area;
+    double getArea(){
+        return Math.PI*radius*radius;
     }
 
-    int getPerimeter(){
-        return perimeter;
+    double getPerimeter(){
+        return 2*Math.PI*radius;
     }
 
     @Override

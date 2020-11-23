@@ -1,15 +1,15 @@
 package com.LABS.lab7;
 
  class Rectangle extends Figure{
-     int area = 20;
-     int perimeter = 2;
+     int length = 20;
+     int width = 10;
 
-     int getArea(){
-         return area;
+     double getArea(){
+         return length*width;
      }
 
-     int getPerimeter(){
-         return perimeter;
+     double getPerimeter(){
+         return 2*(length+width);
      }
 
      @Override

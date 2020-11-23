@@ -1,15 +1,14 @@
 package com.LABS.lab7;
 
  class Square extends Figure{
-     int area = 10;
-     int perimeter = 50;
+     int edge = 10;
 
-     int getArea(){
-         return area;
+     double getArea(){
+         return edge*edge;
      }
 
-     int getPerimeter(){
-         return perimeter;
+     double getPerimeter(){
+         return 4*edge;
      }
 
      @Override
